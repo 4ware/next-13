@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [x] install remix
+- [x] install t3/trpc
 - [ ] github /vercel
 - [ ] prisma
 - [ ] tailwind
