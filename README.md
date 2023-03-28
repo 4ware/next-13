@@ -1,14 +1,41 @@
-Just started hacking a bit with tRPC and Next 13. 
+# advoc8.me - Software für Rechtsanwälte
 
-This is not anywhere closed to the finished design and just a playground for our own exploration.
+## TODO
 
+- [x] install remix
+- [ ] github /vercel
+- [ ] prisma
+- [ ] tailwind
+- [ ] remix auth - email
 
-## Overview
+### Frontend
 
-- `/@trpc/*` represent an imaginary trpc lib for Next 13
-- Feel free to add whatever you want to get a feel of Next 13 + tRPC combo
-- Deployed at [rsc.trpc.io](https://rsc.trpc.io/)
-
-
-
-See the [Issues](https://github.com/trpc/next-13/issues) for things we want to hack on
+- [ ] Initial Layout
+- [ ] Login
+- [ ] Force creation of user and chamber if user doesn't belong to one
+- [ ] Dark mode
+- [ ] List Clients
+- [ ] Create Clients
+- [ ] Update Clients
+- [ ] Delete Clients
+- [ ] List Activities
+- [ ] Create Activities
+- [ ] Update Activities
+- [ ] Delete Activities
+- [ ] List Timetrackings
+- [ ] Create Timetrackings
+- [ ] Update Timetrackings
+- [ ] Delete Timetrackings
+- [ ] List Users
+- [ ] Create Users
+- [ ] Update Users
+- [ ] Delete Users
+- [ ] List Billable Tracks
+- [ ] Filter Billed Tracks
+- [ ] Authenticate Roles
+- [ ] Optimistic Updates
+- [ ] Componentizing
+- [ ] Forms
+- [ ] UI
+- [ ] Stripe
+- [ ] Refactor
